@@ -1,0 +1,4 @@
+<launch>
+    <node name="sync" pkg="car_controll" type="sync" output="screen">
+    </node>
+</launch>

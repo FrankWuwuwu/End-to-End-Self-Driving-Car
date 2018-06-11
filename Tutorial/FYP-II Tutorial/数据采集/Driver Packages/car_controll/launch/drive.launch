@@ -1,0 +1,4 @@
+<launch>
+    <node name="driver" pkg="car_controll" type="drive" output="screen">
+    </node>
+</launch>
